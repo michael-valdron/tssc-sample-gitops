@@ -1,3 +1,6 @@
+# Deprecation Notice
+This repository is deprecated. Only the http component remains in used by RHADS and it can be maintained under https://github.com/redhat-appstudio/tssc-dev-multi-ci/tree/main/samples/skeleton/gitops-template moving forward.
+
 # tssc-sample-gitops
 
 # Gitops Repo Patterns
